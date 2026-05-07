@@ -1,0 +1,12 @@
+{
+  "description": "Sitio web",
+  "repo": "https://github.com/Miguel-Freni",
+  "owner": {
+    "username": "Miguel-Freni",
+    "email": "freniche16@gmail.com"
+  },
+  "record": {
+    "A": ["216.198.79.1"],
+    "TXT": "vc-domain-verify=miguelfreni.is-a.dev,f1318deccc03edbd49c9"
+  }
+}
